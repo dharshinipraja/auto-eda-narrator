@@ -98,11 +98,3 @@ Pull requests are welcome! Try testing with new datasets and adding more storyte
 
 MIT License – free to use and modify.
 
----
-
-⚡ Pro Tip: After uploading this, add GitHub topics/tags like:
-`ai`, `data-science`, `eda`, `nlp`, `mini-project`, `colab`, `storytelling`
-
----
-
-👉 Do you want me to also prepare a **sample `Data_Storyteller_Bot.ipynb` notebook with clean explanations** so you can upload it directly with the README and requirements?
